@@ -5,6 +5,8 @@
 <xacro:property name="basem" value="7"/>
 <xacro:property name="baselw" value="1"/>
 <xacro:property name="baseh" value="0.25"/>
+<xacro:property name="wheelR" value="0.2"/>
+<xacro:property name="wheelT" value="0.25"/>
 
 <xacro:include filename="$(find exp_mini)/src/urdf/materials.xacro" />
 <xacro:include filename="$(find exp_mini)/src/urdf/macros.xacro" />
