@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/parth17/catkin_ws/src/Post_lab_ex1/include/**",
+        "/home/parth17/catkin_ws/src/hello_world/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

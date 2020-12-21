@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<robot name="reckless_car" xmlns:xacro="http://www.ros.org/wiki/xacro"> 
+  
+  <gazebo reference="base_link">
+    <material>Gazebo/Yellow</material>
+  </gazebo>
+  
+  
+  <gazebo reference="right_wheel">
+    <material>Gazebo/Red</material>
+  </gazebo>
+
+  <gazebo reference="right_wheel2">
+    <material>Gazebo/Red</material>
+  </gazebo>
+
+  <gazebo reference="left_wheel">
+    <material>Gazebo/Red</material>
+  </gazebo>
+
+  <gazebo reference="left_wheel2">
+    <material>Gazebo/Red</material>
+  </gazebo>
+     
+ </robot>
